@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get file into texts", "Get file into texts\Get file into texts.csproj", "{410452F2-C8FF-4D6E-8BA8-592800258B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410452F2-C8FF-4D6E-8BA8-592800258B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410452F2-C8FF-4D6E-8BA8-592800258B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410452F2-C8FF-4D6E-8BA8-592800258B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410452F2-C8FF-4D6E-8BA8-592800258B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85B12DB6-0671-4C63-8C92-815F19F3B5D4}
+	EndGlobalSection
+EndGlobal

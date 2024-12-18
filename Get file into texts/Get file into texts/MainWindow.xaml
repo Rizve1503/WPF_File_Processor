@@ -1,0 +1,63 @@
+﻿<Window x:Class="Get_file_into_texts.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="WPF File Processor" Height="450" Width="400">
+
+    <Grid>
+        <!-- Background Image -->
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\rizve\Downloads\WPF File Processor with a blue color theme.png" />
+        </Grid.Background>
+
+        <!-- Ocean Blue Veil -->
+        <Rectangle Fill="#B0000080" Panel.ZIndex="0"/>
+        <!-- Semi-transparent blue (#800000FF = 50% opacity) -->
+
+        <!-- Main Content -->
+        <Grid Margin="10" Panel.ZIndex="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="selectFolderButton" Grid.Row="0" Grid.Column="0" Content="Select Folder" Width="120" Margin="5" Click="selectFolderButton_Click"/>
+            <TextBox x:Name="folderPathTextBox" Grid.Row="0" Grid.Column="1" Margin="5" IsReadOnly="True"/>
+
+            <Button x:Name="selectOutputButton" Grid.Row="1" Grid.Column="0" Content="Select Output File" Width="120" Margin="5" Click="selectOutputButton_Click"/>
+            <TextBox x:Name="outputFileTextBox" Grid.Row="1" Grid.Column="1" Margin="5" IsReadOnly="True"/>
+
+            <TextBlock Grid.Row="2" Grid.Column="0" Text="File Types:" Margin="5"/>
+            <ListBox x:Name="fileTypesListBox" Grid.Row="2" Grid.Column="1" Margin="5" SelectionMode="Multiple">
+                <ListBoxItem Content=".cs"/>
+                <ListBoxItem Content=".ts"/>
+                <ListBoxItem Content=".html"/>
+                <ListBoxItem Content=".cshtml"/>
+            </ListBox>
+
+            <Button x:Name="processButton" Grid.Row="3" Grid.Column="0" Content="Process Files" Grid.ColumnSpan="2" HorizontalAlignment="Center" Width="150" Margin="10" Click="processButton_Click"/>
+
+            <TextBox x:Name="logTextBox" 
+                     Grid.Row="4" 
+                     Grid.Column="0" 
+                     Grid.ColumnSpan="2" 
+                     Margin="5" 
+                     IsReadOnly="True" 
+                     TextWrapping="Wrap" 
+                     AcceptsReturn="True" 
+                     ScrollViewer.VerticalScrollBarVisibility="Auto"
+                     Background="Transparent" 
+                     BorderBrush="Black" 
+                     />
+        </Grid>
+    </Grid>
+</Window>

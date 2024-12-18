@@ -1,0 +1,7 @@
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\bin\Release\net8.0-windows\publish\Get file into texts.exe
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\bin\Release\net8.0-windows\publish\Get file into texts.dll
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\bin\Release\net8.0-windows\publish\Get file into texts.deps.json
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\bin\Release\net8.0-windows\publish\Get file into texts.runtimeconfig.json
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\bin\Release\net8.0-windows\publish\Get file into texts.pdb
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\bin\Release\net8.0-windows\publish\Microsoft.WindowsAPICodePack.dll
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\bin\Release\net8.0-windows\publish\Microsoft.WindowsAPICodePack.Shell.dll

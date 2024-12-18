@@ -1,0 +1,23 @@
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\bin\Release\net8.0-windows\Get file into texts.exe
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\bin\Release\net8.0-windows\Get file into texts.deps.json
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\bin\Release\net8.0-windows\Get file into texts.runtimeconfig.json
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\bin\Release\net8.0-windows\Get file into texts.dll
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\bin\Release\net8.0-windows\Get file into texts.pdb
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\bin\Release\net8.0-windows\Microsoft.WindowsAPICodePack.dll
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\bin\Release\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\Get file into texts.csproj.AssemblyReference.cache
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\MainWindow.baml
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\MainWindow.g.cs
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\App.g.cs
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\Get file into texts_MarkupCompile.cache
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\Get file into texts.g.resources
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\Get file into texts.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\Get file into texts.AssemblyInfoInputs.cache
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\Get file into texts.AssemblyInfo.cs
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\Get file into texts.csproj.CoreCompileInputs.cache
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\Get file.EF394F55.Up2Date
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\Get file into texts.dll
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\refint\Get file into texts.dll
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\Get file into texts.pdb
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\Get file into texts.genruntimeconfig.cache
+D:\.NanoSoft\SDF_PMS\Get file into texts\Get file into texts\obj\Release\net8.0-windows\ref\Get file into texts.dll
