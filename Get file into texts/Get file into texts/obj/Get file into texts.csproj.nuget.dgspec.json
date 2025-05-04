@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NanoSoft\\SDF_PMS\\Get file into texts\\Get file into texts\\Get file into texts.csproj": {}
+    "D:\\.NanoSoft\\SDF_Works\\Get file into texts\\Get file into texts\\Get file into texts.csproj": {}
   },
   "projects": {
-    "D:\\.NanoSoft\\SDF_PMS\\Get file into texts\\Get file into texts\\Get file into texts.csproj": {
+    "D:\\.NanoSoft\\SDF_Works\\Get file into texts\\Get file into texts\\Get file into texts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NanoSoft\\SDF_PMS\\Get file into texts\\Get file into texts\\Get file into texts.csproj",
+        "projectUniqueName": "D:\\.NanoSoft\\SDF_Works\\Get file into texts\\Get file into texts\\Get file into texts.csproj",
         "projectName": "Get file into texts",
-        "projectPath": "D:\\.NanoSoft\\SDF_PMS\\Get file into texts\\Get file into texts\\Get file into texts.csproj",
+        "projectPath": "D:\\.NanoSoft\\SDF_Works\\Get file into texts\\Get file into texts\\Get file into texts.csproj",
         "packagesPath": "C:\\Users\\rizve\\.nuget\\packages\\",
-        "outputPath": "D:\\.NanoSoft\\SDF_PMS\\Get file into texts\\Get file into texts\\obj\\",
+        "outputPath": "D:\\.NanoSoft\\SDF_Works\\Get file into texts\\Get file into texts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\rizve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -48,12 +53,6 @@
             "Microsoft-WindowsAPICodePack-Shell": {
               "target": "Package",
               "version": "[1.1.5, )"
-            },
-            "Microsoft.NET.ILLink.Tasks": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.11, )",
-              "autoReferenced": true
             }
           },
           "imports": [
@@ -67,20 +66,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[8.0.11, 8.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -89,12 +74,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

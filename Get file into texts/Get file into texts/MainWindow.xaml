@@ -8,9 +8,9 @@
 
     <Grid>
         <!-- Background Image -->
-        <Grid.Background>
+        <!--<Grid.Background>
             <ImageBrush ImageSource="C:\Users\rizve\Downloads\WPF File Processor with a blue color theme.png" />
-        </Grid.Background>
+        </Grid.Background>-->
 
         <!-- Ocean Blue Veil -->
         <Rectangle Fill="#B0000080" Panel.ZIndex="0"/>

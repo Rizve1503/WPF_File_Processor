@@ -1,18 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.NanoSoft\\SDF_PMS\\Get file into texts\\",
+  "WorkspaceRootPath": "D:\\.NanoSoft\\SDF_Works\\Get file into texts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{410452F2-C8FF-4D6E-8BA8-592800258B0E}|Get file into texts\\Get file into texts.csproj|d:\\.nanosoft\\sdf_pms\\get file into texts\\get file into texts\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{410452F2-C8FF-4D6E-8BA8-592800258B0E}|Get file into texts\\Get file into texts.csproj|d:\\.nanosoft\\sdf_works\\get file into texts\\get file into texts\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{410452F2-C8FF-4D6E-8BA8-592800258B0E}|Get file into texts\\Get file into texts.csproj|solutionrelative:get file into texts\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{410452F2-C8FF-4D6E-8BA8-592800258B0E}|Get file into texts\\Get file into texts.csproj|d:\\.nanosoft\\sdf_pms\\get file into texts\\get file into texts\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{410452F2-C8FF-4D6E-8BA8-592800258B0E}|Get file into texts\\Get file into texts.csproj|solutionrelative:get file into texts\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{410452F2-C8FF-4D6E-8BA8-592800258B0E}|Get file into texts\\Get file into texts.csproj|d:\\.nanosoft\\sdf_works\\get file into texts\\get file into texts\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{410452F2-C8FF-4D6E-8BA8-592800258B0E}|Get file into texts\\Get file into texts.csproj|solutionrelative:get file into texts\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{410452F2-C8FF-4D6E-8BA8-592800258B0E}|Get file into texts\\Get file into texts.csproj|d:\\.nanosoft\\sdf_pms\\get file into texts\\get file into texts\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{410452F2-C8FF-4D6E-8BA8-592800258B0E}|Get file into texts\\Get file into texts.csproj|solutionrelative:get file into texts\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rizve\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410452F2-C8FF-4D6E-8BA8-592800258B0E}|Get file into texts\\Get file into texts.csproj|d:\\.nanosoft\\sdf_works\\get file into texts\\get file into texts\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410452F2-C8FF-4D6E-8BA8-592800258B0E}|Get file into texts\\Get file into texts.csproj|solutionrelative:get file into texts\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,10 +34,21 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\rizve\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\rizve\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAKcBAAAAAAAAAAASwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:10:16.997Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\.NanoSoft\\SDF_PMS\\Get file into texts\\Get file into texts\\App.xaml",
+              "DocumentMoniker": "D:\\.NanoSoft\\SDF_Works\\Get file into texts\\Get file into texts\\App.xaml",
               "RelativeDocumentMoniker": "Get file into texts\\App.xaml",
-              "ToolTip": "D:\\.NanoSoft\\SDF_PMS\\Get file into texts\\Get file into texts\\App.xaml",
+              "ToolTip": "D:\\.NanoSoft\\SDF_Works\\Get file into texts\\Get file into texts\\App.xaml",
               "RelativeToolTip": "Get file into texts\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-01T10:45:20.656Z",
@@ -44,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\.NanoSoft\\SDF_PMS\\Get file into texts\\Get file into texts\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\.NanoSoft\\SDF_Works\\Get file into texts\\Get file into texts\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Get file into texts\\MainWindow.xaml",
-              "ToolTip": "D:\\.NanoSoft\\SDF_PMS\\Get file into texts\\Get file into texts\\MainWindow.xaml",
+              "ToolTip": "D:\\.NanoSoft\\SDF_Works\\Get file into texts\\Get file into texts\\MainWindow.xaml",
               "RelativeToolTip": "Get file into texts\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-01T07:18:05.95Z",
@@ -54,15 +68,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\.NanoSoft\\SDF_PMS\\Get file into texts\\Get file into texts\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\.NanoSoft\\SDF_Works\\Get file into texts\\Get file into texts\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Get file into texts\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\.NanoSoft\\SDF_PMS\\Get file into texts\\Get file into texts\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\.NanoSoft\\SDF_Works\\Get file into texts\\Get file into texts\\MainWindow.xaml.cs",
               "RelativeToolTip": "Get file into texts\\MainWindow.xaml.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAlwBAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwBAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:18:02.692Z"
+              "WhenOpened": "2024-12-01T07:18:02.692Z",
+              "EditorCaption": ""
             }
           ]
         }
